@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example Project</string>
+    <string name="hello_gra_ane">Hello Graçane!</string>
+    <string name="textview">TextView</string>
+</resources>
